@@ -1,6 +1,5 @@
 # Color Detection
-Color detection using OpenCV
-with contours and rectangles
+Color detection using OpenCV with contours and rectangles.
 
 Colors:
 - Red
