@@ -44,8 +44,8 @@ upper_yellow = np.array([39, 255, 255])
 lower_green = np.array([40, 86, 80])
 upper_green = np.array([83, 255, 255])
 
-lower_blue = np.array([84, 86, 80], dtype=np.uint8)
-upper_blue = np.array([126, 255, 255], dtype=np.uint8)
+lower_blue = np.array([84, 86, 80])
+upper_blue = np.array([126, 255, 255])
 
 lower_purple = np.array([127, 86, 80])
 upper_purple = np.array([157, 255, 255])
